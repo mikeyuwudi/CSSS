@@ -1,4 +1,4 @@
-# CSSS
+# CSSS (Computer Screen Safety System)
 A system that utilizes real-time facial recognition to protect the privacy of the personal computer, using Python.
 
 For now it has 3 files: faces.py, cv_train.py, and torch_train.py. I train the facial recognition using 2 different ways: OpenCV and Pytorch.
