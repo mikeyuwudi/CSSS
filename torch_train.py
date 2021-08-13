@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug  4 01:35:05 2021
-
 @author: xinyu
 """
 import os
